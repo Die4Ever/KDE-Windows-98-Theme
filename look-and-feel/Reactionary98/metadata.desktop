@@ -5,7 +5,7 @@ X-KDE-PluginInfo-Name=Reactionary98
 X-KDE-PluginInfo-Author=Die4Ever
 X-KDE-PluginInfo-Email=die4ever2005@gmail.com
 X-KDE-PluginInfo-Category=Plasma Look And Feel
-X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Version=0.4
 X-KDE-PluginInfo-Website=https://github.com/Die4Ever/KDE-Windows-98-Theme
 X-KDE-PluginInfo-License=GPL3
 X-KDE-PluginInfo-EnabledByDefault=true
@@ -13,9 +13,9 @@ X-Plasma-MainScript=defaults
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KPackage-Dependencies=\
 kns://aurorae.knsrc/api.kde-look.org/2083968,\
-kns://icons.knsrc/api.kde-look.org/1581320##Win98SE-main.tar.bz2,\
+kns://icons.knsrc/api.kde-look.org/1581320#SE98-0.2.16.tar.xz,\
 kns://xcursor.knsrc/api.kde-look.org/2246027#ModernXP.zip,\
-kns://colorschemes.knsrc/api.kde-look.org/1252411,\
+kns://colorschemes.knsrc/api.kde-look.org/1484429,\
 kns://plasma-themes.knsrc/api.kde-look.org/1252412,\
 kns://wallpaper.knsrc/api.kde-look.org/1257847,\
 kns://sddmtheme.knsrc/api.kde-look.org/1376447

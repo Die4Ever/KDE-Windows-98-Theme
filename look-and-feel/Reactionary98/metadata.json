@@ -15,7 +15,7 @@
         "ServiceTypes": [
             "Plasma/LookAndFeel"
         ],
-        "Version": "0.1",
+        "Version": "0.4",
         "EnabledByDefault": true,
         "Website": "https://github.com/Die4Ever/KDE-Windows-98-Theme"
     },
@@ -24,9 +24,9 @@
     "X-Plasma-MainScript": "defaults",
     "X-KPackage-Dependencies": [
         "kns://aurorae.knsrc/api.kde-look.org/2083968",
-        "kns://icons.knsrc/api.kde-look.org/1581320#Win98SE-main.tar.bz2",
+        "kns://icons.knsrc/api.kde-look.org/1581320#SE98-0.2.16.tar.xz",
         "kns://xcursor.knsrc/api.kde-look.org/2246027#ModernXP.zip",
-        "kns://colorschemes.knsrc/api.kde-look.org/1252411",
+        "kns://colorschemes.knsrc/api.kde-look.org/1484429",
         "kns://plasma-themes.knsrc/api.kde-look.org/1252412",
         "kns://wallpaper.knsrc/api.kde-look.org/1257847"
     ]
