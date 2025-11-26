@@ -21,7 +21,7 @@ LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=windows-classic-hidpi
+theme=__aurorae__svg__windows-classic-hidpi
 
 [plasmarc][Theme]
 name=Reactionary

@@ -1,0 +1,28 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "die4ever2005@gmail.com",
+                "Name": "Die4Ever"
+            }
+        ],
+        "Description": "A fork of Reactionary Plus to try to make it more Windows 98 style.",
+        "Id": "Reactionary98",
+        "License": "GPL-3.0-or-later",
+        "Name": "Reactionary98",
+        "Website": "mods4ever.com"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Retro",
+    "X-Plasma-APIVersion": "2",
+    "X-Plasma-MainScript": "default",
+    "X-KPackage-Dependencies": [
+        "kns://aurorae.knsrc/api.kde-look.org/2083968",
+        "kns://icons.knsrc/api.kde-look.org/1581320",
+        "kns://cursors.knsrc/api.kde-look.org/2246027",
+        "kns://colorschemes.knsrc/api.kde-look.org/1252411",
+        "kns://plasma-themes.knsrc/api.kde-look.org/1252412",
+        "kns://wallpaper.knsrc/api.kde-look.org/1257847",
+        "kns://sddmtheme.knsrc/api.kde-look.org/1376447"
+    ]
+}
