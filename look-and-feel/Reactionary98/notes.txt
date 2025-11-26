@@ -1,0 +1,6 @@
+kpackagetool6 -i Reactionary98
+
+https://userbase.kde.org/Plasma/Create_a_Global_Theme_Package
+
+https://www.lorenzobettini.it/2021/12/playing-with-kde-plasma-themes/
+

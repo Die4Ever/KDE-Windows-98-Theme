@@ -9,20 +9,27 @@
         ],
         "Description": "A fork of Reactionary Plus to try to make it more Windows 98 style.",
         "Id": "Reactionary98",
-        "License": "GPL-3.0-or-later",
         "Name": "Reactionary98",
-        "Website": "mods4ever.com"
+        "Category": "Global Themes (Plasma 6)",
+        "License": "GPL 3+",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "Version": "0.1",
+        "EnabledByDefault": true,
+        "Website": "https://github.com/Die4Ever/KDE-Windows-98-Theme"
     },
     "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Retro",
     "X-Plasma-APIVersion": "2",
-    "X-Plasma-MainScript": "default",
+    "X-Plasma-MainScript": "defaults",
     "X-KPackage-Dependencies": [
         "kns://aurorae.knsrc/api.kde-look.org/2083968",
-        "kns://icons.knsrc/api.kde-look.org/1581320",
-        "kns://cursors.knsrc/api.kde-look.org/2246027",
+        "kns://icons.knsrc/api.kde-look.org/1581320#Win98SE-main.tar.bz2",
+        "kns://xcursor.knsrc/api.kde-look.org/2246027#ModernXP.zip",
         "kns://colorschemes.knsrc/api.kde-look.org/1252411",
         "kns://plasma-themes.knsrc/api.kde-look.org/1252412",
         "kns://wallpaper.knsrc/api.kde-look.org/1257847",
-        "kns://sddmtheme.knsrc/api.kde-look.org/1376447"
+        "kns://sddmtheme.knsrc/api.kde-look.org/1376447",
+        "kns://cgcgtk3.knsrc/api.kde-look.org/1943182"
     ]
 }
