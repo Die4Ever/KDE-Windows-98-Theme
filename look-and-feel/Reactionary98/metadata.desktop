@@ -10,4 +10,10 @@ X-KDE-PluginInfo-Name=Reactionary
 X-KDE-PluginInfo-Version=4.1
 X-KDE-PluginInfo-Website=https://www.pling.com/u/phob1an/
 X-KDE-ServiceTypes=Plasma/LookAndFeel
-X-KPackage-Dependencies=kns://aurorae.knsrc/api.kde-look.org/1252059,kns://colorschemes.knsrc/api.kde-look.org/1252411,kns://plasma-themes.knsrc/api.kde-look.org/1252412,kns://wallpaper.knsrc/api.kde-look.org/1257847,kns://sddmtheme.knsrc/api.kde-look.org/1376447
+X-KPackage-Dependencies=[
+    "kns://aurorae.knsrc/api.kde-look.org/1252059",
+    "kns://colorschemes.knsrc/api.kde-look.org/1252411",
+    "kns://plasma-themes.knsrc/api.kde-look.org/1252412",
+    "kns://wallpaper.knsrc/api.kde-look.org/1257847",
+    "kns://sddmtheme.knsrc/api.kde-look.org/1376447"
+]
