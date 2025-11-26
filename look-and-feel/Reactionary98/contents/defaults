@@ -2,13 +2,13 @@
 Image=Reactionary
 
 [kcminputrc][Mouse]
-cursorTheme=breeze_cursors
+cursorTheme=ModernXP
 
 [kdeglobals][General]
 ColorScheme=Reactionary
 
 [kdeglobals][Icons]
-Theme=DamaDamas-icon-theme
+Theme=98SE
 
 [kdeglobals][KDE]
 widgetStyle=Windows
@@ -21,7 +21,7 @@ LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__Reactionary
+theme=windows-classic-hidpi
 
 [plasmarc][Theme]
 name=Reactionary

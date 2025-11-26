@@ -1,17 +1,19 @@
 [Desktop Entry]
-Comment=A reaction to ReactOS
-Name=Reactionary
-X-KDE-PluginInfo-Author=Phobian347
+Comment=A fork of Reactionary to try to make it more Windows 98 style.
+Name=Reactionary98
+X-KDE-PluginInfo-Author=Die4Ever
 X-KDE-PluginInfo-Category=Plasma Look And Feel
-X-KDE-PluginInfo-Email=phobian@tutanota.com
+X-KDE-PluginInfo-Email=die4ever2005@gmail.com
 X-KDE-PluginInfo-EnabledByDefault=true
-X-KDE-PluginInfo-License=GPL 3+
-X-KDE-PluginInfo-Name=Reactionary
+X-KDE-PluginInfo-License=GPL-3.0-or-later
+X-KDE-PluginInfo-Name=Reactionary98
 X-KDE-PluginInfo-Version=4.1
-X-KDE-PluginInfo-Website=https://www.pling.com/u/phob1an/
+X-KDE-PluginInfo-Website=https://github.com/Die4Ever/KDE-Windows-98-Theme
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KPackage-Dependencies=[
-    "kns://aurorae.knsrc/api.kde-look.org/1252059",
+    "kns://aurorae.knsrc/api.kde-look.org/2083968",
+    "kns://icons.knsrc/api.kde-look.org/1581320",
+    "kns://cursors.knsrc/api.kde-look.org/2246027",
     "kns://colorschemes.knsrc/api.kde-look.org/1252411",
     "kns://plasma-themes.knsrc/api.kde-look.org/1252412",
     "kns://wallpaper.knsrc/api.kde-look.org/1257847",
