@@ -2,13 +2,13 @@
 Image=Reactionary
 
 [kcminputrc][Mouse]
-cursorTheme=ModernXP
+cursorTheme=ModernXP2
 
 [kdeglobals][General]
 ColorScheme=Windows_Classic
 
 [kdeglobals][Icons]
-Theme=98SE
+Theme=SE98C
 
 [kdeglobals][KDE]
 widgetStyle=Windows
