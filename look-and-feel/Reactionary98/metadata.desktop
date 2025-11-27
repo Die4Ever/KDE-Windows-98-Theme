@@ -1,6 +1,6 @@
 [Desktop Entry]
 Name=Reactionary98
-Comment=A fork of Reactionary to make it more Windows 98 style. Use with SE98 WM Theme for the GTK theme. You may also want to set the Window Decorations button size to Large.
+Comment=A fork of Reactionary to make it more Windows 98 style. Use with SE98 WM Theme for the GTK theme. Also check out the included dark color theme.
 X-KDE-PluginInfo-Name=Reactionary98
 X-KDE-PluginInfo-Author=Die4Ever
 X-KDE-PluginInfo-Email=die4ever2005@gmail.com
@@ -12,10 +12,12 @@ X-KDE-PluginInfo-EnabledByDefault=true
 X-Plasma-MainScript=defaults
 X-KDE-ServiceTypes=Plasma/LookAndFeel
 X-KPackage-Dependencies=\
-kns://aurorae.knsrc/api.kde-look.org/2083968,\
+kns://aurorae.knsrc/api.kde-look.org/2331034,\
 kns://icons.knsrc/api.kde-look.org/2330873,\
 kns://xcursor.knsrc/api.kde-look.org/2330874,\
-kns://colorschemes.knsrc/api.kde-look.org/1484429,\
+kns://colorschemes.knsrc/api.kde-look.org/2331035,\
+kns://colorschemes.knsrc/api.kde-look.org/2331037,\
+kns://colorschemes.knsrc/api.kde-look.org/2331038,\
 kns://plasma-themes.knsrc/api.kde-look.org/1252412,\
 kns://wallpaper.knsrc/api.kde-look.org/1257847,\
 kns://sddmtheme.knsrc/api.kde-look.org/1376447

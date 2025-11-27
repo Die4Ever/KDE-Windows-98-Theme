@@ -7,7 +7,7 @@
                 "Name": "Die4Ever"
             }
         ],
-        "Description": "A fork of Reactionary Plus to try to make it more Windows 98 style. Use with SE98 WM Theme for the GTK theme. You may also want to set the Window Decorations button size to Large.",
+        "Description": "A fork of Reactionary Plus to try to make it more Windows 98 style. Use with SE98 WM Theme for the GTK theme. Also check out the included dark color theme.",
         "Id": "Reactionary98",
         "Name": "Reactionary98",
         "Category": "Global Themes (Plasma 6)",
@@ -23,10 +23,12 @@
     "X-Plasma-APIVersion": "2",
     "X-Plasma-MainScript": "defaults",
     "X-KPackage-Dependencies": [
-        "kns://aurorae.knsrc/api.kde-look.org/2083968",
+        "kns://aurorae.knsrc/api.kde-look.org/2331034",
         "kns://icons.knsrc/api.kde-look.org/2330873",
         "kns://xcursor.knsrc/api.kde-look.org/2330874",
-        "kns://colorschemes.knsrc/api.kde-look.org/1484429",
+        "kns://colorschemes.knsrc/api.kde-look.org/2331035",
+        "kns://colorschemes.knsrc/api.kde-look.org/2331037",
+        "kns://colorschemes.knsrc/api.kde-look.org/2331038",
         "kns://plasma-themes.knsrc/api.kde-look.org/1252412",
         "kns://wallpaper.knsrc/api.kde-look.org/1257847"
     ]

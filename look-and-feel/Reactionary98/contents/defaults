@@ -5,7 +5,7 @@ Image=Reactionary
 cursorTheme=ModernXP2
 
 [kdeglobals][General]
-ColorScheme=Windows_Classic
+ColorScheme=Win98
 
 [kdeglobals][Icons]
 Theme=SE98C
@@ -21,7 +21,7 @@ LayoutName=org.kde.breeze.desktop
 
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
-theme=__aurorae__svg__windows-classic-hidpi
+theme=__aurorae__svg__windows98-aurorae
 
 [plasmarc][Theme]
-name=Reactionary
+name=reactplus
