@@ -2,7 +2,8 @@ var panel = new Panel
 var panelScreen = panel.screen
 
 panel.location = "bottom";
-panel.height = 32
+panel.height = 48;
+panel.floating = false;
 panel.alignment = "center";
 geo = screenGeometry(panelScreen);
 panel.minimumLength = geo.width
