@@ -14,11 +14,13 @@ var kickoff = panel.addWidget("org.kde.plasma.kickoff")
 kickoff.currentConfigGroup = ["Shortcuts"]
 kickoff.writeConfig("global", "Alt+F1")
 kickoff.currentConfigGroup = ["General"]
+kickoff.writeConfig("menuLabel", "Start")
+kickoff.writeConfig("favoritesDisplay", "1")
 panel.addWidget("org.kde.plasma.showdesktop")
 let taskBar = panel.addWidget("org.kde.plasma.taskmanager")
 taskBar.currentConfigGroup = ["General"]
 taskBar.writeConfig("launchers",["preferred://browser", "preferred://filemanager","applications:org.kde.konsole.desktop"])
-taskBar.writeConfig("onlyGroupWhenFull", false)
+taskBar.writeConfig("onlyGroupWhenFull", true)
 panel.addWidget("org.kde.plasma.pager")
 
 /* Next up is determining whether to add the Input Method Panel
@@ -67,5 +69,5 @@ if (langIds.indexOf(languageId) != -1) {
 panel.addWidget("org.kde.plasma.systemtray")
 var dClock = panel.addWidget("org.kde.plasma.digitalclock");
 dClock.writeConfig("showDate", false);
-var dLogout = panel.addWidget("org.kde.plasma.lock_logout");
-dLogout.writeConfig("show_lockScreen", false);
+//var dLogout = panel.addWidget("org.kde.plasma.lock_logout");
+//dLogout.writeConfig("show_lockScreen", false);
