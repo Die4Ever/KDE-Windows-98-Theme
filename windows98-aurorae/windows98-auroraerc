@@ -12,6 +12,8 @@ TitleEdgeBottom=6
 TitleEdgeTopMaximized=-1
 TitleEdgeBottomMaximized=1
 
-ButtonMarginTop=25%
+ButtonMarginTop=0
 
 ButtonSpacing=0
+ButtonWidth=23
+ButtonHeight=23

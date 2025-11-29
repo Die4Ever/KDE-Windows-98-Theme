@@ -78,6 +78,9 @@ dClock.writeConfig("showDate", false);
 for (var i = 0; i < screenCount; ++i) {
     var desk = desktopForScreen(i);
     desk.wallpaperPlugin = "org.kde.color";
+    desk.currentConfigGroup = ["General"];
+    desk.writeConfig("toolTips", "true");
+    desk.writeConfig("previews", "false");
     desk.currentConfigGroup = ["Wallpaper", "org.kde.color", "General"];
     desk.writeConfig("Color", "#008080");
 }

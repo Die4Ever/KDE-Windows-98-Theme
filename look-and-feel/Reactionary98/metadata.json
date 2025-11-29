@@ -15,7 +15,7 @@
         "ServiceTypes": [
             "Plasma/LookAndFeel"
         ],
-        "Version": "0.8",
+        "Version": "0.9",
         "EnabledByDefault": true,
         "Website": "https://github.com/Die4Ever/KDE-Windows-98-Theme"
     },
