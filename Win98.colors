@@ -48,7 +48,7 @@ ForegroundVisited=61,174,230
 
 [Colors:Selection]
 BackgroundAlternate=129,243,155
-BackgroundNormal=1,23,142
+BackgroundNormal=0,0,128
 DecorationFocus=255,85,127
 DecorationHover=130,130,130
 ForegroundActive=252,252,252
@@ -61,16 +61,16 @@ ForegroundPositive=39,174,96
 ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
-BackgroundAlternate=77,77,77
-BackgroundNormal=44,44,44
+BackgroundAlternate=255,255,225
+BackgroundNormal=255,255,225
 DecorationFocus=233,206,53
 DecorationHover=130,130,130
-ForegroundActive=61,174,233
-ForegroundInactive=189,195,199
+ForegroundActive=0,0,128
+ForegroundInactive=48,48,48
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=252,252,252
+ForegroundNormal=0,0,0
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
@@ -101,10 +101,6 @@ ForegroundNeutral=246,116,0
 ForegroundNormal=24,22,18
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
-
-[Colors:Header]
-BackgroundNormal=192,192,192
-BackgroundAlternate=192,192,192
 
 [General]
 Name=Win98

@@ -46,9 +46,13 @@ ForegroundNormal=235,235,235
 ForegroundPositive=46,204,113
 ForegroundVisited=61,174,230
 
+[Colors:Header]
+BackgroundAlternate=48,48,48
+BackgroundNormal=48,48,48
+
 [Colors:Selection]
 BackgroundAlternate=90,90,90
-BackgroundNormal=1,23,142
+BackgroundNormal=0,0,128
 DecorationFocus=255,85,127
 DecorationHover=130,130,130
 ForegroundActive=252,252,252
@@ -61,16 +65,16 @@ ForegroundPositive=39,174,96
 ForegroundVisited=189,195,199
 
 [Colors:Tooltip]
-BackgroundAlternate=77,77,77
-BackgroundNormal=44,44,44
+BackgroundAlternate=255,255,225
+BackgroundNormal=255,255,225
 DecorationFocus=233,206,53
 DecorationHover=130,130,130
-ForegroundActive=61,174,233
-ForegroundInactive=189,195,199
+ForegroundActive=0,0,128
+ForegroundInactive=48,48,48
 ForegroundLink=41,128,185
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
-ForegroundNormal=252,252,252
+ForegroundNormal=0,0,0
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
@@ -101,10 +105,6 @@ ForegroundNeutral=246,116,0
 ForegroundNormal=230,230,230
 ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
-
-[Colors:Header]
-BackgroundNormal=48,48,48
-BackgroundAlternate=48,48,48
 
 [General]
 Name=Win98-Dark
