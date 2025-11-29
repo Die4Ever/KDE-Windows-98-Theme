@@ -3,7 +3,7 @@ var panelScreen = panel.screen
 
 panel.location = "bottom";
 //panel.height = 36;
-panel.height = 2 * Math.ceil(gridUnit * 2.5 / 2)
+panel.height = 2 * gridUnit
 panel.floating = false;
 panel.alignment = "center";
 geo = screenGeometry(panelScreen);
@@ -21,7 +21,9 @@ let taskBar = panel.addWidget("org.kde.plasma.taskmanager")
 taskBar.currentConfigGroup = ["General"]
 taskBar.writeConfig("launchers",["preferred://browser", "preferred://filemanager","applications:org.kde.konsole.desktop"])
 taskBar.writeConfig("onlyGroupWhenFull", true)
-panel.addWidget("org.kde.plasma.pager")
+taskBar.writeConfig("groupedTaskVisualization", "2")
+taskBar.writeConfig("hideLauncherOnStart", "false")
+//panel.addWidget("org.kde.plasma.pager")
 
 /* Next up is determining whether to add the Input Method Panel
  * widget to the panel or not. This is done based on whether
@@ -71,3 +73,11 @@ var dClock = panel.addWidget("org.kde.plasma.digitalclock");
 dClock.writeConfig("showDate", false);
 //var dLogout = panel.addWidget("org.kde.plasma.lock_logout");
 //dLogout.writeConfig("show_lockScreen", false);
+
+// set Windows 98 wallpaper color
+for (var i = 0; i < screenCount; ++i) {
+    var desk = desktopForScreen(i);
+    desk.wallpaperPlugin = "org.kde.color";
+    desk.currentConfigGroup = ["Wallpaper", "org.kde.color", "General"];
+    desk.writeConfig("Color", "#008080");
+}
