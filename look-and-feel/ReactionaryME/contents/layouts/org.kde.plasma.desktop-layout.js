@@ -83,5 +83,5 @@ for (var i = 0; i < screenCount; ++i) {
     desk.writeConfig("previews", "false");
     desk.writeConfig("arrangement", "1");
     desk.currentConfigGroup = ["Wallpaper", "org.kde.color", "General"];
-    desk.writeConfig("Color", "#008080");
+    desk.writeConfig("Color", "#3a6ea5");
 }

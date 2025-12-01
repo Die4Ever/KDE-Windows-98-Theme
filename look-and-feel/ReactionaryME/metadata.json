@@ -7,9 +7,9 @@
                 "Name": "Die4Ever"
             }
         ],
-        "Description": "A fork of Reactionary Plus to try to make it more Windows 98 style. Use with SE98 WM Theme for the GTK theme. Also check out the included dark color theme.",
-        "Id": "Reactionary98",
-        "Name": "Reactionary 98",
+        "Description": "A fork of Reactionary Plus to try to make it more Windows ME style. Use with SE98 WM Theme for the GTK theme. Also check out the included dark color theme.",
+        "Id": "ReactionaryME",
+        "Name": "Reactionary ME",
         "Category": "Global Themes (Plasma 6)",
         "License": "GPL 3+",
         "ServiceTypes": [
@@ -19,7 +19,7 @@
         "EnabledByDefault": true,
         "Website": "https://github.com/Die4Ever/KDE-Windows-98-Theme"
     },
-    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Retro;Windows;Win98;98",
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Retro;Windows;WinME;ME",
     "X-Plasma-APIVersion": "2",
     "X-Plasma-MainScript": "defaults",
     "X-KPackage-Dependencies": [

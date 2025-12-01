@@ -16,10 +16,10 @@ kickoff.writeConfig("global", "Alt+F1")
 kickoff.currentConfigGroup = ["General"]
 kickoff.writeConfig("menuLabel", "Start")
 kickoff.writeConfig("favoritesDisplay", "1")
-panel.addWidget("org.kde.plasma.showdesktop")
+//panel.addWidget("org.kde.plasma.showdesktop")
 let taskBar = panel.addWidget("org.kde.plasma.taskmanager")
 taskBar.currentConfigGroup = ["General"]
-taskBar.writeConfig("launchers",["preferred://browser", "preferred://filemanager","applications:org.kde.konsole.desktop"])
+taskBar.writeConfig("launchers",[/*"preferred://browser", "preferred://filemanager","applications:org.kde.konsole.desktop"*/])
 taskBar.writeConfig("onlyGroupWhenFull", true)
 taskBar.writeConfig("groupedTaskVisualization", "2")
 taskBar.writeConfig("hideLauncherOnStart", "false")
@@ -68,7 +68,7 @@ if (langIds.indexOf(languageId) != -1) {
     panel.addWidget("org.kde.plasma.kimpanel");
 }
 
-panel.addWidget("org.kde.plasma.systemtray")
+panel.addWidget("org.kde.plasma.systemtray"); // 95 doesn't have one but you kinda need it
 var dClock = panel.addWidget("org.kde.plasma.digitalclock");
 dClock.writeConfig("showDate", false);
 //var dLogout = panel.addWidget("org.kde.plasma.lock_logout");
