@@ -76,7 +76,7 @@ ForegroundVisited=127,140,141
 
 [Colors:View]
 BackgroundAlternate=230,231,232
-BackgroundNormal=234,234,234
+BackgroundNormal=255,255,255
 DecorationFocus=255,255,255
 DecorationHover=0,152,215
 ForegroundActive=61,174,233
@@ -103,7 +103,7 @@ ForegroundPositive=39,174,96
 ForegroundVisited=127,140,141
 
 [General]
-Name=Windows ME dim
+Name=Windows ME
 TitlebarIsAccentColored=false
 shadeSortColumn=true
 
