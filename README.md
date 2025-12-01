@@ -12,7 +12,7 @@ You might also want to use
 - Reactionary SDDM Login Theme https://store.kde.org/p/1376447
 
 Credits:
-- Windows 98 global theme forked from Reactionary Plus https://www.opencode.net/phob1an/reactionary
+- Global themes forked from Reactionary Plus https://www.opencode.net/phob1an/reactionary
 - Window decorations forked from Windows Classic hidpi https://github.com/pixelocdguy/windows-classic
 - Colors forked from Windows Classic https://store.kde.org/p/1484429
 - Using SE98 for icons https://www.opencode.net/nestoris/Win98SE
