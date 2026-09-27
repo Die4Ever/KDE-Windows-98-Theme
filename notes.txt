@@ -6,7 +6,6 @@ https://www.lorenzobettini.it/2021/12/playing-with-kde-plasma-themes/
 
 https://guidebookgallery.org/guis/windows
 
-maybe a dedicated WinMEDark.colors would have non monochrome grays
 
     "X-KPackage-Dependencies": [
         "kns://aurorae.knsrc/api.kde-look.org/2331477", // 95
@@ -23,6 +22,7 @@ maybe a dedicated WinMEDark.colors would have non monochrome grays
         "kns://colorschemes.knsrc/api.kde-look.org/2331038", // 98 dark
         "kns://colorschemes.knsrc/api.kde-look.org/2331483", // ME fixed tooltips
         "kns://colorschemes.knsrc/api.kde-look.org/2331484", // ME dim
+        "kns://colorschemes.knsrc/api.kde-look.org/2375431", // ME dark
         "kns://plasma-themes.knsrc/api.kde-look.org/1252412",
         "kns://wallpaper.knsrc/api.kde-look.org/1257847"
     ]
