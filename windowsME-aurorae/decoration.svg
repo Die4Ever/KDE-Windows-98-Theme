@@ -89,6 +89,15 @@
        gradientTransform="matrix(0.57142854,0,0,1,-19.65476,-1.0583338)" />
     <linearGradient
        xlink:href="#inactive-gradient-colors"
+       id="decoration-maximized-inactive-gradient"
+       gradientUnits="userSpaceOnUse"
+       x1="1.0583333"
+       y1="3.4395833"
+       x2="15.875"
+       y2="3.4395833"
+       gradientTransform="matrix(0.57142854,0,0,1,-19.65476,-1.0583338)" />
+    <linearGradient
+       xlink:href="#inactive-gradient-colors"
        id="decoration-inactive-gradient"
        gradientUnits="userSpaceOnUse"
        x1="1.0583333"
@@ -148,6 +157,24 @@
       <rect
          style="fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.200006"
          id="rect7915-1"
+         width="8.4666662"
+         height="0.26458332"
+         x="-19.049999"
+         y="4.7625008" />
+    </g>
+    <g
+       id="decoration-maximized-inactive-center"
+       transform="matrix(7.5590555,0,0,11.911901,59.000002,-5)">
+      <rect
+         style="fill:url(#decoration-maximized-inactive-gradient);fill-opacity:1;stroke:none;stroke-width:0;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect7915-0i"
+         width="8.4666662"
+         height="4.7624998"
+         x="-19.049999"
+         y="-4.5022581e-09" />
+      <rect
+         style="fill:#c0c0c0;fill-opacity:1;stroke:none;stroke-width:0.200006"
+         id="rect7915-1i"
          width="8.4666662"
          height="0.26458332"
          x="-19.049999"
