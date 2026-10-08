@@ -1,5 +1,7 @@
 kpackagetool6 -i Reactionary98
 
+https://develop.kde.org/docs/plasma/aurorae/
+
 https://userbase.kde.org/Plasma/Create_a_Global_Theme_Package
 
 https://www.lorenzobettini.it/2021/12/playing-with-kde-plasma-themes/
@@ -14,15 +16,17 @@ https://guidebookgallery.org/guis/windows
         "kns://aurorae.knsrc/api.kde-look.org/2331121", // 98 dark
         "kns://aurorae.knsrc/api.kde-look.org/2331475", // ME
         "kns://aurorae.knsrc/api.kde-look.org/2331468", // ME dark
+        "kns://aurorae.knsrc/api.kde-look.org/2377711", // Halloween aurorae
         "kns://icons.knsrc/api.kde-look.org/2330873", // SE98
         "kns://icons.knsrc/api.kde-look.org/1483944", // Memphis98
-        "kns://xcursor.knsrc/api.kde-look.org/2330874",
+        "kns://xcursor.knsrc/api.kde-look.org/2330874", // cursors
         "kns://colorschemes.knsrc/api.kde-look.org/2331035", // 98
         "kns://colorschemes.knsrc/api.kde-look.org/2331037", // 98 dim
         "kns://colorschemes.knsrc/api.kde-look.org/2331038", // 98 dark
         "kns://colorschemes.knsrc/api.kde-look.org/2331483", // ME fixed tooltips
         "kns://colorschemes.knsrc/api.kde-look.org/2331484", // ME dim
         "kns://colorschemes.knsrc/api.kde-look.org/2375431", // ME dark
-        "kns://plasma-themes.knsrc/api.kde-look.org/1252412",
-        "kns://wallpaper.knsrc/api.kde-look.org/1257847"
+        "kns://colorschemes.knsrc/api.kde-look.org/2377707", // Halloween colors
+        "kns://plasma-themes.knsrc/api.kde-look.org/1252412", // Reactionary Plus widgets
+        "kns://wallpaper.knsrc/api.kde-look.org/1257847" // Reactionary wallpaper
     ]
